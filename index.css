@@ -1,0 +1,46 @@
+.container {
+    height: 935px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+#form {
+    width: 500px;
+    height: 500px;
+    background-image: url("calc.jpg");
+    
+
+}
+
+.inputs {
+    padding-left: 150px;
+    color: aliceblue;
+}
+
+
+
+
+.form-row {
+    padding-left: 130px;
+}
+
+.form-but {
+    padding-left: 200px;
+}
+
+.form-res {
+    padding-left: 105px;
+}
+
+h1 {
+    
+    text-align: center;
+    color: aliceblue;
+}
+
+footer {
+    text-align: center;
+}
